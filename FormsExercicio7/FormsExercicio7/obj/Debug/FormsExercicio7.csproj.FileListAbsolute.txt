@@ -1,0 +1,10 @@
+E:\Projetos PRCA2\Windows forms\FormsExercicio7\FormsExercicio7\bin\Debug\FormsExercicio7.exe.config
+E:\Projetos PRCA2\Windows forms\FormsExercicio7\FormsExercicio7\bin\Debug\FormsExercicio7.exe
+E:\Projetos PRCA2\Windows forms\FormsExercicio7\FormsExercicio7\bin\Debug\FormsExercicio7.pdb
+E:\Projetos PRCA2\Windows forms\FormsExercicio7\FormsExercicio7\obj\Debug\FormsExercicio7.csprojAssemblyReference.cache
+E:\Projetos PRCA2\Windows forms\FormsExercicio7\FormsExercicio7\obj\Debug\FormsExercicio7.frmConversorDeDolarParaReal.resources
+E:\Projetos PRCA2\Windows forms\FormsExercicio7\FormsExercicio7\obj\Debug\FormsExercicio7.Properties.Resources.resources
+E:\Projetos PRCA2\Windows forms\FormsExercicio7\FormsExercicio7\obj\Debug\FormsExercicio7.csproj.GenerateResource.cache
+E:\Projetos PRCA2\Windows forms\FormsExercicio7\FormsExercicio7\obj\Debug\FormsExercicio7.csproj.CoreCompileInputs.cache
+E:\Projetos PRCA2\Windows forms\FormsExercicio7\FormsExercicio7\obj\Debug\FormsExercicio7.exe
+E:\Projetos PRCA2\Windows forms\FormsExercicio7\FormsExercicio7\obj\Debug\FormsExercicio7.pdb
